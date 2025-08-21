@@ -10,5 +10,4 @@ double a = 1;
                 System.Console.WriteLine("a no es igual a 2");
             }
 
-            System.Console.WriteLine("Esto se escribe siempre");
-            System.Console.ReadLine();
+            System.Console.WriteLine("Esto se escribe siempreeeeeeeee");
