@@ -1,0 +1,15 @@
+/workspaces/Act-2-M-todos-Num-rico-/Act2/bin/Debug/net8.0/Act2
+/workspaces/Act-2-M-todos-Num-rico-/Act2/bin/Debug/net8.0/Act2.deps.json
+/workspaces/Act-2-M-todos-Num-rico-/Act2/bin/Debug/net8.0/Act2.runtimeconfig.json
+/workspaces/Act-2-M-todos-Num-rico-/Act2/bin/Debug/net8.0/Act2.dll
+/workspaces/Act-2-M-todos-Num-rico-/Act2/bin/Debug/net8.0/Act2.pdb
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.AssemblyInfoInputs.cache
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.AssemblyInfo.cs
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.csproj.CoreCompileInputs.cache
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.sourcelink.json
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.dll
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/refint/Act2.dll
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.pdb
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/Act2.genruntimeconfig.cache
+/workspaces/Act-2-M-todos-Num-rico-/Act2/obj/Debug/net8.0/ref/Act2.dll
