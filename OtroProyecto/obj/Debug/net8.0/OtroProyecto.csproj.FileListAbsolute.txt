@@ -1,0 +1,15 @@
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/bin/Debug/net8.0/OtroProyecto
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/bin/Debug/net8.0/OtroProyecto.deps.json
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/bin/Debug/net8.0/OtroProyecto.runtimeconfig.json
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/bin/Debug/net8.0/OtroProyecto.dll
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/bin/Debug/net8.0/OtroProyecto.pdb
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.AssemblyInfoInputs.cache
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.AssemblyInfo.cs
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.csproj.CoreCompileInputs.cache
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.sourcelink.json
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.dll
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/refint/OtroProyecto.dll
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.pdb
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/OtroProyecto.genruntimeconfig.cache
+/workspaces/Act-2-M-todos-Num-rico-/OtroProyecto/obj/Debug/net8.0/ref/OtroProyecto.dll
