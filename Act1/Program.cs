@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 //Declaracion de Variables
 int numero_1, numero_2, numero_3;
@@ -34,3 +34,4 @@ Console.WriteLine("contraste_2=" + contraste_2);
 Console.WriteLine("contraste_3=" + contraste_3);
 
 Console.WriteLine("\nPresiona cualquier tecla para salir...");
+
